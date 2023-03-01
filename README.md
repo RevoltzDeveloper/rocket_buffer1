@@ -1,12 +1,12 @@
-# Simple Inventory System
+### 🏆 Simple Inventory System
 
-# Player Route
+### 🖥 Player Route
 - Jogador conecta no servidor.
 - Inventario do jogador carrega.
 - Itens do jogador carrega.
 - Apertando uma hotkey será possível abrir o inventario.
 
-# Task List
+### ✅ Task List
 - [x] Design da hotbar.
 - [x] Design do inventario.
 - [x] Design dos itens
@@ -19,17 +19,17 @@
 - [x] Sistema de enviar o item.
 - [x] Sistema de receber o item.
 
-# Save Data Inventory
+### 📡 Save Data Inventory
 1. Peso no Inventario.
 2. Itens no Inventario.
 
-# Permissions
+### 💻 Permissions
 - GiveItem = OnlyAdmin;
 - TakeItem = OnlyAdmin;
 - ResetInventory = OnlyAdmin;
 - SeeInventory = OnlyAdmin;
 
-# Stacks
+### 📊 Stacks
 > Lua,
 > Eventos,
 > Formato de Desenho,
